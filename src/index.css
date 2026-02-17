@@ -33,7 +33,7 @@
   --color-gray-700: #333;
   --color-gray-500: #666;
   --color-cream-50:  #f7f7f4;
-  --color-cream-100: #f2f1ed;
+  --color-cream-100: #673AB7; /* purple */
   --color-cream-200: #e6e5e0;
   --color-cream-300: #D8D6CE;
   --color-ink:       #26251e;
@@ -43,7 +43,7 @@
    * These are the tokens you use in components.
    * e.g. --color-surface → bg-surface, --color-text-primary → text-text-primary */
   --color-surface:        var(--color-cream-50);
-  --color-card:           var(--color-cream-100);
+  --color-card:           var(--color-cream-100); /* purple */  
   --color-text-primary:   var(--color-ink);
   --color-text-muted:     var(--color-ink-50);
   --color-text-secondary: var(--color-gray-500);
